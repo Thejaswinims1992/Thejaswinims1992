@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thejaswinims1992
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java,C++
+- 🌱 I’m currently learning C, C++ Java
 - 💞️ I’m looking to collaborate on Research Project
 - 📫 How to reach me via email thejaswinims92@gmail.com
 
